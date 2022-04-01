@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 
 #SimpTkint (Simple Tkinter)
+
 #Note: I wrote this in 2017 when I was learning oop (so its way to complicated), but it does the job.
 #I might re-write it at some point, but until then...
+
+#Purpose: I hate writing tkinter code, and I think everyone secretly does, so I wrote this to simplify
+#the process. I hope people find it useful (cos I know I have).
+
 #Author: SecretSheppy
 
 global version
