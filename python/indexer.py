@@ -1,7 +1,9 @@
 # !/usr/bin/env python3
 
 # Sorts files in a directory into folders aphabetically
-# Run as: indexer.py c:/... or python3 indexer.py ~/...
+# Run as:
+# Windows -> indexer.py c:/...
+# Linux -> python3 indexer.py ~/...
 # Author: SecretSheppy
 
 import os
