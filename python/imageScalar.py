@@ -1,3 +1,12 @@
+# !/usr/bin/env python3
+
+# Resises a single image to multiple specified sizes (can also convert between formats)
+# Supported Formats: bmp, pbm, pgm, ppm, sr, ras, jpeg, jpg, jpe, jp2, tiff, tif, png
+# Run as: 
+# Windows -> imageScalar.py srcImg exportName sizes... 
+# Linux -> python3 imageScalar.py srcImg exportName sizes...
+# Author: SecretSheppy
+
 import os
 import sys
 import cv2
