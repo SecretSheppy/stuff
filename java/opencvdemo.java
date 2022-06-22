@@ -20,7 +20,7 @@ import org.opencv.videoio.VideoCapture;
  * 
  * Built in JavaSE-1.8
  * 
- * To run add the opencv libray (download: https://opencv.org/releases/) to the java project build path and insert path to cascade where specified
+ * To run, add the opencv libray (download: https://opencv.org/releases/) to the java project build path and insert path to cascade where specified
  * 
  * @author SecretSheppy
  */
