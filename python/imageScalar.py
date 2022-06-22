@@ -13,12 +13,6 @@ import cv2
 
 # args -> rawDir exportDir sizes... (500x500xjpg)
 def main():
-
-    # initial setup
-    if sys.argv == None:
-        os.system("pip install opencv-python")
-        print("Opencv Installed, Run with args")
-        sys.exit(0)
     
     sys.argv.pop(0)
 
